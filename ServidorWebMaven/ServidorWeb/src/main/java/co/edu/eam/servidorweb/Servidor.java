@@ -10,5 +10,7 @@ package co.edu.eam.servidorweb;
  * @author kvin2
  */
 public class Servidor {
-    
+    public void nada(){
+        
+    }
 }
